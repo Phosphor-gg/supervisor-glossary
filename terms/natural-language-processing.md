@@ -1,6 +1,6 @@
 ---
 term: Natural Language Processing (NLP)
-description: The field of AI focused on enabling computers to understand and work with human language.
+description: The field of AI focused on enabling computers to understand, interpret, and generate human language, the foundation automated moderation is built on.
 ---
 
 # Natural Language Processing (NLP)

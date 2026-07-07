@@ -1,6 +1,6 @@
 ---
 term: Multimodal AI
-description: AI that can understand more than one type of content at once, such as text and images together.
+description: AI that can understand more than one type of content at once, such as text and images together, and reason about how the two relate in a single message.
 ---
 
 # Multimodal AI

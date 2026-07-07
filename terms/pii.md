@@ -1,6 +1,6 @@
 ---
 term: Personally Identifiable Information (PII)
-description: Data that can identify a specific person, such as a name, address, phone number, or government ID.
+description: Data that can identify a specific person, such as a name, address, phone number, email, or government ID, whether shared willingly or exposed by others.
 ---
 
 # Personally Identifiable Information (PII)

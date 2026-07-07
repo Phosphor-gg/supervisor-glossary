@@ -1,6 +1,6 @@
 ---
 term: False Negative
-description: A case where a moderation system misses content that was actually harmful.
+description: A case where a moderation system misses content that was actually harmful, letting abuse slip through because it was disguised, coded, or worded subtly.
 ---
 
 # False Negative

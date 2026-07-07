@@ -1,6 +1,6 @@
 ---
 term: False Positive
-description: A case where a moderation system flags content as harmful when it is actually fine.
+description: A case where a moderation system flags content as harmful when it is actually fine, wrongly punishing an innocent message, joke, or clinical discussion.
 ---
 
 # False Positive

@@ -1,6 +1,6 @@
 ---
 term: Large Language Model (LLM)
-description: An AI model trained on vast amounts of text that can understand and generate human language.
+description: An AI model trained on vast amounts of text that can understand and generate human language, and the technology behind modern intent-based moderation.
 ---
 
 # Large Language Model (LLM)

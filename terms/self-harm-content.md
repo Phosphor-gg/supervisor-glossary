@@ -1,6 +1,6 @@
 ---
 term: Self-Harm Content
-description: Content that expresses, encourages, or gives instructions for self-harm or suicide.
+description: Content that expresses, encourages, or gives instructions for self-harm or suicide, one of the most sensitive categories a moderation system handles.
 ---
 
 # Self-Harm Content

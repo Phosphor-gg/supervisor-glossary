@@ -1,6 +1,6 @@
 ---
 term: Toxicity
-description: Rude, disrespectful, or hostile language that makes people want to leave a conversation.
+description: Rude, disrespectful, or hostile language that degrades a conversation and makes people want to disengage, even when no slur or explicit threat appears.
 ---
 
 # Toxicity

@@ -1,6 +1,6 @@
 ---
 term: Intent-Based Moderation
-description: Judging the meaning and purpose behind a message rather than matching keywords or blocklists.
+description: Judging the meaning and purpose behind a message rather than matching keywords or blocklists, so identical words are handled by what the author intends.
 ---
 
 # Intent-Based Moderation
